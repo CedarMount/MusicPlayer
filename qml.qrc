@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Src/leftPage/LeftPage.qml</file>
+        <file>Src/rightPage/RightPage.qml</file>
+        <file>Src/playMusic/PlayMusic.qml</file>
+        <file>Src/commonUI/MPWindow.qml</file>
+        <file>Src/basic/BasicConfig.qml</file>
+        <file>Src/basic/qmldir</file>
+        <file>Src/mainPopups/LoginPopup.qml</file>
+        <file>Src/mainPopups/RegistPopup.qml</file>
+        <file>Src/mainPopups/ProfilePopup.qml</file>
+        <file>Src/rightPage/stackPages/MusicLibraryHome.qml</file>
+        <file>Src/rightPage/stackPages/SearchResultsPage.qml</file>
+        <file>Src/rightPage/stackPages/NowPlayingLyrics.qml</file>
+        <file>Src/rightPage/stackPages/BrowseTrackListPage.qml</file>
+        <file>Src/rightPage/stackPages/RecentlyPlayer.qml</file>
+        <file>Src/rightPage/stackPages/MyLove.qml</file>
+        <file>Src/rightPage/stackPages/PlayQueue.qml</file>
+        <file>Src/rightPage/stackPages/MusicCategory.qml</file>
+        <file>Src/rightPage/stackPages/PlaylistsHub.qml</file>
+        <file>Src/playMusic/ControlButton.qml</file>
+    </qresource>
+</RCC>

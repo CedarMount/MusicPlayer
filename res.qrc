@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Resources/close_w4ifjubscsqi_512.png</file>
+        <file>Resources/zoom_out_xwbsmtrx0n1c_512.png</file>
+        <file>Resources/user_sq6d5lnpzo1p_512.png</file>
+        <file>Resources/left_arrow_w8wv4is89unx_512.png</file>
+        <file>Resources/seo_nuil7ltlrho1_512.png</file>
+        <file>Resources/delete_5pyp42c3s0zy_16.png</file>
+        <file>Resources/close_v8b3szi716rs_32.png</file>
+        <file>Resources/music_t3h2tgcd0au4_32.png</file>
+        <file>Resources/left_arrow_2yb1ya71hm1a_32.png</file>
+        <file>Resources/local_3lvg9q6cchrh_32.png</file>
+        <file>Resources/heart_q3emnu6ucq65_32.png</file>
+        <file>Resources/clock_aiaidwdgbcba_32.png</file>
+        <file>Resources/add_9sakwcktqu6y_32.png</file>
+        <file>Resources/loop_dpenn2wrrl6l_32.png</file>
+        <file>Resources/next_button_y8sb5ntkpuyx_32.png</file>
+        <file>Resources/play_shlymgjj9i8v_32.png</file>
+        <file>Resources/previous_9kzdc9ujd96m_32.png</file>
+        <file>Resources/volume_v1sf0lel8ar8_32.png</file>
+        <file>Resources/heart_fos2dkdz7xg8_32.png</file>
+        <file>Resources/volume_i8zg9qv8jwpg_32.png</file>
+        <file>Resources/volume_d5m1z3kicyav_32.png</file>
+        <file>Resources/tone_8pl3agn6vcn7_32.png</file>
+        <file>Resources/queue_a0jgr9uz22ua_32.png</file>
+        <file>Resources/queue_93k2hvn1zdyx_32.png</file>
+        <file>Resources/song_99tskq9rz1so_32.png</file>
+        <file>Resources/queue_2mwvfgp2mmp0_32.png</file>
+        <file>Resources/my_location_zg4s2nk2q2y9_32.png</file>
+    </qresource>
+</RCC>
